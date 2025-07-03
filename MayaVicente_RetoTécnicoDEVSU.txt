@@ -1,0 +1,33 @@
+directorio-frontend/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.js
+│   └── index.js
+├── package.json
+├── Dockerfile
+├── .dockerignore
+
+---------------------------------------
+
+directorio-backend/
+├── src/
+│   ├── routes/
+│   │   └── personas.js
+│   ├── controllers/
+│   │   └── personasController.js
+│   ├── db/
+│   │   └── connection.js
+│   └── index.js
+├── package.json
+├── Dockerfile
+├── .dockerignore
+
+--------------------------------------
+
+directorio-bucket/
+├── personas/
+│   └── 123_foto.jpg
+├── documentos/
+│   └── reglamento.pdf
+└── otros/
